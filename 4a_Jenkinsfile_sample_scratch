@@ -1,4 +1,5 @@
 printenv
+echo "added this line to check webhook setup"
 echo "This is simple command in Jenkins Job"
 echo $USER
 echo $PATH
